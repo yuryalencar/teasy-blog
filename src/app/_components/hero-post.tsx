@@ -38,8 +38,12 @@ export function HeroPost({
           </div>
         </div>
         <div>
-          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-          <Avatar name={author.name} picture={author.picture} />
+          <Link href={`/posts/${slug}`} className="hover:none">
+            <p className="text-lg leading-relaxed mb-4">
+              {excerpt} Clique e confira o artigo completo
+            </p>
+            <Avatar name={author.name} picture={author.picture} />
+          </Link>
         </div>
       </div>
     </section>
