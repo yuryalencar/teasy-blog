@@ -10,8 +10,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title: `Teasy Blog | Seu blog de tecnologia`,
+  description: `Saiba tudo sobre tecnologia e tendências do mercado.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
@@ -28,27 +28,27 @@ export default function RootLayout({
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="/favicon/apple-touch-icon.png"
+          href="/favicon/favicon.svg"
         />
         <link
           rel="icon"
-          type="image/png"
-          sizes="32x32"
-          href="/favicon/favicon-32x32.png"
+          type="image/svg+xml"
+          href="/favicon/favicon.svg"
         />
         <link
           rel="icon"
-          type="image/png"
+          type="image/svg+xml"
           sizes="16x16"
-          href="/favicon/favicon-16x16.png"
+          href="/favicon/favicon.svg"
         />
         <link rel="manifest" href="/favicon/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="/favicon/safari-pinned-tab.svg"
+          href="/favicon/favicon.svg"
           color="#000000"
         />
-        <link rel="shortcut icon" href="/favicon/favicon.ico" />
+        <link rel="shortcut icon" href="/favicon/favicon.svg" />
+        <meta name="google-adsense-account" content="ca-pub-4528964283718379"></meta>
         <meta name="msapplication-TileColor" content="#000000" />
         <meta
           name="msapplication-config"
