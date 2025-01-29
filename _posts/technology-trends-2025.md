@@ -1,7 +1,7 @@
 ---
 title: "Tendências Tecnológicas para 2025: O Futuro da Tecnologia e Inovações"
 excerpt: "A tecnologia continua evoluindo a passos largos, e 2025 promete trazer inovações significativas em diversas áreas. Desde avanços em inteligência artificial até novas formas de interação com dispositivos do dia a dia, empresas e consumidores precisarão se adaptar às mudanças. Confira as principais tendências tecnológicas para o ano de 2025 e como elas podem impactar seu dia a dia."
-coverImage: "/assets/blog/preview/cover.jpg"
+coverImage: "/assets/blog/technology-trends-2025/cover.jpg"
 date: "2025-01-29T09:37:00.000Z"
 author:
   name: Yury Alencar
@@ -12,7 +12,7 @@ ogImage:
 
 A tecnologia continua evoluindo a passos largos, e 2025 promete trazer inovações significativas em diversas áreas. Desde avanços em inteligência artificial até novas formas de interação com dispositivos do dia a dia, empresas e consumidores precisarão se adaptar às mudanças. Confira as principais tendências tecnológicas para o próximo ano e como elas podem impactar seu dia a dia.
 
-### 1. Wearables com Recursos Médicos Avançados: A Revolução da Saúde Digital
+### 1. Dispositivos vestíveis com Recursos Médicos Avançados: A Revolução da Saúde Digital
 
 Os dispositivos vestíveis para monitoramento de saúde continuarão a evoluir, com um foco crescente em funcionalidades médicas reguladas. Empresas como Apple, Samsung e Google estão investindo em recursos como detecção de apneia do sono e monitoramento de sinais vitais. Além disso, sensores de glicose acessíveis ao público geral estão se tornando comuns, permitindo um acompanhamento mais preciso da saúde sem necessidade de exames invasivos.
 
