@@ -25,6 +25,9 @@ const CoverImage = ({ title, src, slug }: Props) => {
       {slug ? (
         <Link href={`/posts/${slug}`} aria-label={title}>
           {image}
+          <div className="text-gray-500 text-center mt-2 mb-4">
+            Clique e confira o artigo completo
+          </div>
         </Link>
       ) : (
         image

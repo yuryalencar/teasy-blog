@@ -1,6 +1,6 @@
 ---
 title: "Tendências Tecnológicas para 2025: O Futuro da Tecnologia e Inovações"
-excerpt: "A tecnologia continua evoluindo a passos largos, e 2025 promete trazer inovações significativas em diversas áreas. Desde avanços em inteligência artificial até novas formas de interação com dispositivos do dia a dia, empresas e consumidores precisarão se adaptar às mudanças. Confira as principais tendências tecnológicas para o ano de 2025 e como elas podem impactar seu dia a dia."
+excerpt: "A tecnologia continua evoluindo a passos largos, e 2025 promete trazer inovações significativas em diversas áreas. Desde avanços em inteligência artificial até novas formas de interação com dispositivos do dia a dia, empresas e consumidores precisarão se adaptar às mudanças. Confira as principais tendências tecnológicas para o ano de 2025 e como elas podem impactar seu dia a dia. Clique e confira o artigo completo."
 coverImage: "/assets/blog/technology-trends-2025/cover.jpg"
 date: "2025-01-29T09:37:00.000Z"
 author:
