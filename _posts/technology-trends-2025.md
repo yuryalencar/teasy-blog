@@ -7,7 +7,7 @@ author:
   name: Yury Alencar
   picture: "/assets/blog/authors/yury.png"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/technology-trends-2025/cover.jpg"
 ---
 
 A tecnologia continua evoluindo a passos largos, e 2025 promete trazer inovações significativas em diversas áreas. Desde avanços em inteligência artificial até novas formas de interação com dispositivos do dia a dia, empresas e consumidores precisarão se adaptar às mudanças. Confira as principais tendências tecnológicas para o próximo ano e como elas podem impactar seu dia a dia.
