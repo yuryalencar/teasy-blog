@@ -48,5 +48,4 @@ Os drones da DJI podem ficar mais caros devido a tarifas comerciais e regulament
 
 O ano de 2025 trará mudanças significativas para o mundo da tecnologia. Desde a popularização de wearables avançados até a possível revolução na forma como interagimos com a IA, a evolução tecnológica promete impactar a vida das pessoas e a estratégia das grandes empresas. Resta saber quais dessas tendências realmente vão se concretizar.
 
-Não perca as novidades tecnológicas de 2025! Nos siga nas redes sociais para ficar por dentro das últimas inovações do setor.
-
+🚀 **Quer saber mais sobre IA e suas aplicações?** Não perca as novidades tecnológicas de 2025! Nos siga nas redes sociais para ficar por dentro das últimas inovações do setor.
