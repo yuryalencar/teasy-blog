@@ -2,7 +2,7 @@
 title: "Como Aprender e Usar Inteligência Artificial na Automação de Testes"
 excerpt: "A Inteligência Artificial (IA) está transformando o setor de Quality Assurance (QA) e a automação de testes. Mas como aprender IA generativa e aplicá-la diretamente no seu trabalho, seja como testador manual, engenheiro de automação ou especialista em testes de API?"
 coverImage: "/assets/blog/ai-with-qa-2025-v1/cover.jpg"
-date: "2025-01-29T09:37:00.000Z"
+date: "2025-02-06T010:38:00.000Z"
 author:
   name: Yury Alencar
   picture: "/assets/blog/authors/yury.png"
