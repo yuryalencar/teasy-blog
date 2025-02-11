@@ -132,4 +132,4 @@ Se você quer um **negócio de sucesso sem estresse**, **siga essas 12 leis**:
 ✅ **Invista no desenvolvimento da sua equipe**
 ✅ **Aprenda a trabalhar menos e faturar mais**
 
-🚀 **Agora é sua vez: qual dessas leis você já aplica no seu negócio? Comente abaixo!**
+🚀 **Agora é sua vez: qual dessas leis você já aplica no seu negócio?** Não perca as novidades! Nos siga nas redes sociais para ficar por dentro das últimas inovações do setor.
